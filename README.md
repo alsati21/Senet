@@ -27,5 +27,6 @@ programming concepts such as game logic, player turns, and board management.
 1. Clone the repository:
    ```bash
    git clone https://github.com/alsati21/Senet.git
-   <img width="1298" height="420" alt="image" src="https://github.com/user-attachments/assets/2964840e-110a-4d36-9733-6fe3cf99324c" />
+
+<img width="1298" height="420" alt="Screenshot 2026-01-19 215135" src="https://github.com/user-attachments/assets/4e7387a0-d4ec-4a4b-9ba8-fe7b1fd782d3" />
 
